@@ -61,7 +61,7 @@ I recommend adding this project to your project, which is easier to debug.
 
 However, you can still use it with Carthage (you'll need Carthage anyway since NEKit uses Carthage) by adding
 ```ruby
-github "zhuhaow/NEKit"
+github "QAF411/NEKit"
 ```
 to you `Cartfile`.
 
